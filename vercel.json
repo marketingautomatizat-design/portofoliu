@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/share/:slug","destination":"/api/share?slug=:slug"}]}
